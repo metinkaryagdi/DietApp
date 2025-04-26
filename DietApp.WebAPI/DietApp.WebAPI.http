@@ -1,0 +1,6 @@
+@DietApp.WebAPI_HostAddress = http://localhost:5005
+
+GET {{DietApp.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

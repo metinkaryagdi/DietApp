@@ -1,0 +1,15 @@
+C:\Users\metin\Desktop\Yazılım dosyaları\DietApp\DietApp.Application\bin\Debug\net8.0\DietApp.Application.deps.json
+C:\Users\metin\Desktop\Yazılım dosyaları\DietApp\DietApp.Application\bin\Debug\net8.0\DietApp.Application.dll
+C:\Users\metin\Desktop\Yazılım dosyaları\DietApp\DietApp.Application\bin\Debug\net8.0\DietApp.Application.pdb
+C:\Users\metin\Desktop\Yazılım dosyaları\DietApp\DietApp.Application\bin\Debug\net8.0\DietApp.Domain.dll
+C:\Users\metin\Desktop\Yazılım dosyaları\DietApp\DietApp.Application\bin\Debug\net8.0\DietApp.Domain.pdb
+C:\Users\metin\Desktop\Yazılım dosyaları\DietApp\DietApp.Application\obj\Debug\net8.0\DietApp.Application.csproj.AssemblyReference.cache
+C:\Users\metin\Desktop\Yazılım dosyaları\DietApp\DietApp.Application\obj\Debug\net8.0\DietApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metin\Desktop\Yazılım dosyaları\DietApp\DietApp.Application\obj\Debug\net8.0\DietApp.Application.AssemblyInfoInputs.cache
+C:\Users\metin\Desktop\Yazılım dosyaları\DietApp\DietApp.Application\obj\Debug\net8.0\DietApp.Application.AssemblyInfo.cs
+C:\Users\metin\Desktop\Yazılım dosyaları\DietApp\DietApp.Application\obj\Debug\net8.0\DietApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\metin\Desktop\Yazılım dosyaları\DietApp\DietApp.Application\obj\Debug\net8.0\DietApp..BECB4EC5.Up2Date
+C:\Users\metin\Desktop\Yazılım dosyaları\DietApp\DietApp.Application\obj\Debug\net8.0\DietApp.Application.dll
+C:\Users\metin\Desktop\Yazılım dosyaları\DietApp\DietApp.Application\obj\Debug\net8.0\refint\DietApp.Application.dll
+C:\Users\metin\Desktop\Yazılım dosyaları\DietApp\DietApp.Application\obj\Debug\net8.0\DietApp.Application.pdb
+C:\Users\metin\Desktop\Yazılım dosyaları\DietApp\DietApp.Application\obj\Debug\net8.0\ref\DietApp.Application.dll

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "xsnQca/dkYMsy9IkLqQg8K+jRjEQ6RSeY0FguxNfo4Q=",
+  "Source": "DietApp.WebAPI",
+  "BasePath": "_content/DietApp.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
